@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-charter-381818",
+  "private_key_id": "e514bf08a104d6d99a54a31d999f7765e1f7138b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxPxdoDWv5+kTh\nYdGYb9hp8mwu6gdEAM/M4g6QVCk1170CI8M2UZ+WMr420CszbxogFekHl0Xqz/NB\nJXu9FUw5GQKilscE5D6arGoIV/rOT6XjaU1Pyt9oJ3OgTyaY+j0q+ER4h1HOQlVx\nKC8phW8wUnWTUBUMriBk4yXt+9sd1a8tOw0rDfT9FQ8HJ8pAe7fxNFYuOQQFOEkA\n5At51g4bXevA7b3GpWYpKQdeKbKMUHI132Rmw2/OwUAX9F9+V3QvlY0noYvH6113\nYss1gcMjz7uZWD6QmlXxOTaGOqsRFHKF43ii2hVgHbyL0W56+C0ciQzG3s9KwltC\nSuo11Ii/AgMBAAECggEAEaDKvSiIkqYXb6sA435MMc1QgSH5cwP5ptDczfHw31AD\nllDkO2TG0HNfg6gUg9sK6CIFuSGMbJwd/16w/c8+c3dPUchZJt1kdJGtQgMuCJLX\nVtTEQalVqtAxqcH1fsV0i++BL9OViUQDp2tttV11/4JT+0C9tzMiOaZ1wUOJOWA6\n2MNMeK7Hyl5AXDjYSazJUdLOuo2LJtxxqXm1Q7c/dExePsK+10Fpy1aq8jUTOv4P\nNf/FPgsfYf83GA4RyTln0k7yoSSJSVVCSsZ3EQ7DU52+CsyBM6nJT5syrLnMc4OZ\nO2n+J4+PppAEFmQLMImxO3LLEKOS7IM/hRGm1ofIUQKBgQDZOrHGUVeQVU4z1v8E\n/0Gqo0NJpRF/NTwxfWMKZ1jOUpx5WvZVfi7qesKce9dto2K98ekFS+L/V+PquNfJ\ng7VjW1WHM6K0nxOgBF4vVfVVF8fE4RiVOVKlt45qbaVinEXFxNurB1Nig1LZARhW\n8fYuCiKi51jWf7pcvH9k/Lr6WwKBgQDQ4ZA4KXjKQZRRoCBsjKw6Ii7tD8gC81lP\n6r7ftdtO4kq74NxmtkSj3sUPprMlQDo0nd2UNpdUiNRV8zboK/7LUnPUnnxFS041\n8j31NIxWEubUDqJSiOLKK9J0b3FWs31YMU+x5XRZOukbD9ztkNQNeweo+PLwsui6\nuFYW2crQbQKBgE9ZLETXw5d6QZWYDBFEODVfa53ECQ8hX/pn5byQIZVEAdomSuLR\ns8t8ygelCP0IeHIPomGH5cQF08ASgugeDyza2PQI/X7iuKVz0v+Rc4sAo70byAIC\nLVlRIlln8ciCcs4Z6W+gvmm2tJWF2+EugxEwLJS60u2PPIDRbetykc4PAoGBAJpj\nnm1kedtEzZPnfw+8ijANxBGEcJl9tK3VHG/NwuNzbzme4kkov2M/7Pe8hv0pk9wA\nMx6xmvjoicldk1/X5OPzdZnZ6pBtMMm+2vy6cl/MaMCkcGYAt2AnM87L8EHdOPBO\nwlEDABRT7qgJ+Ym+Wn38SZUjLK2sD0izpy4MnFOhAoGAU2q9n8D6+DRQv0VttebD\nBRMwiOJ5pXw1Qzps9fzdMqWPaRxqFF69y1PxZOuChw5Ei2Uy4UyS0gx0Xdphqp/J\nXXAqvML8uZzMUSztPxqPhFtGzldRjGMwD6mdZCVjiAv9tv0xQAu3b1o3uImGmUG4\nBvqb7sBXaimaYetdaYr4dKA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jandos@voltaic-charter-381818.iam.gserviceaccount.com",
+  "client_id": "111077334462095523477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jandos%40voltaic-charter-381818.iam.gserviceaccount.com"
+}
